@@ -14,5 +14,5 @@
 - https://rapidapi.com/ytjar/api/yt-api
 
 ### Önizleme
-![]()
+![public/youtube_clone.gif](public/youtube_clone.gif)
 
